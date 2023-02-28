@@ -1,0 +1,105 @@
+# Kodi Media Center language file
+# Addon Name: Browser Launcher
+# Addon id: plugin.BrowserLauncher
+# Addon Provider: "Sandmann79 + Sequoia689"
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.BrowserLauncher\n"
+"Report-Msgid-Bugs-To: http://forum.kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sandmann79\n"
+"Language-Team: none\n"
+"Language: en_gb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "Add Website]"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Remove Website"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Title"
+msgstr ""
+
+msgctxt "#30004"
+msgid "URL"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Browser not found"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Edit Website Settings"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Thumbnail"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Defaults"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Stop XBMC playback?"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Use custom Browser/script path"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Browser/script path"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Use own user profile (Chrome, Firefox, Opera)"
+msgstr ""
+
+msgctxt "#30013"
+msgid ">Webbrowser"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Use kiosk mode?"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Custom Browser"
+msgstr ""
+
+msgctxt "#30018"
+msgid ">Process Priority"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Low"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Below Normal"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Normal"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Above Normal"
+msgstr ""
+
+msgctxt "#30024"
+msgid "High"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Realtime"
+msgstr ""
